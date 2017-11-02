@@ -143,5 +143,14 @@ a.active {
 .footer h1, footer h1 {
   font-size: 16px;
 }
+
 .footer p, footer p {
   font-size: 14px;
+}
+  /*
+  * Contact
+  */
+.contact_symbol {
+  width: 30px;
+  vertical-align: middle;
+}
